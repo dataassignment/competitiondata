@@ -1,0 +1,2611 @@
+[
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 337,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20323
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 337,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20324
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 337,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20325
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 337,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20326
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 337,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20327
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 337,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20328
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 337,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20329
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 337,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20330
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 337,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20331
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 337,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20332
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20333
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20334
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20335
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20336
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20337
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20338
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 337,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20339
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20340
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20341
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20342
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20343
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20344
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20345
+    },
+    {
+        "candidateid": 812,
+        "companyid": 164,
+        "competitionid": 337,
+        "score": 0.0,
+        "resultid": 20346
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 338,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20347
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 338,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20348
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 338,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20349
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 338,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20350
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 338,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20351
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 338,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20352
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 338,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20353
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 338,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20354
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 338,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20355
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 338,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20356
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 338,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20357
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 338,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20358
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 338,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20359
+    },
+    {
+        "candidateid": 812,
+        "companyid": 164,
+        "competitionid": 338,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20360
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20361
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20362
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20363
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20364
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20365
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20366
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20367
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20368
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20369
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 338,
+        "score": 0.0,
+        "resultid": 20370
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 339,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20371
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 339,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20372
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 339,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20373
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 339,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20374
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 339,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20375
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 339,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20376
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 339,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20377
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 339,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20378
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 339,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20379
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 339,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20380
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20381
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20382
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20383
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20384
+    },
+    {
+        "candidateid": 812,
+        "companyid": 164,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20385
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20386
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 339,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20387
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20388
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20389
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20390
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20391
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20392
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20393
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 339,
+        "score": 0.0,
+        "resultid": 20394
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 340,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20395
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 340,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20396
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 340,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20397
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 340,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20398
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 340,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20399
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 340,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20400
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 340,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20401
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 340,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20402
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 340,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20403
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 340,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20404
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20405
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20406
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20407
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20408
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20409
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20410
+    },
+    {
+        "candidateid": 812,
+        "companyid": 164,
+        "competitionid": 340,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20411
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20412
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20413
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20414
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20415
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20416
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20417
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 340,
+        "score": 0.0,
+        "resultid": 20418
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 341,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20419
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 341,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20420
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 341,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20421
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 341,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20422
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 341,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20423
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 341,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20424
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 341,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20425
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 341,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20426
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 341,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20427
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 341,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20428
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20429
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20430
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20431
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20432
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20433
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20434
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20435
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20436
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 341,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20437
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 341,
+        "score": 0.0,
+        "resultid": 20438
+    },
+    {
+        "candidateid": 812,
+        "companyid": 164,
+        "competitionid": 341,
+        "score": 0.0,
+        "resultid": 20439
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 341,
+        "score": 0.0,
+        "resultid": 20440
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 341,
+        "score": 0.0,
+        "resultid": 20441
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 341,
+        "score": 0.0,
+        "resultid": 20442
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 346,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20539
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 346,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20540
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 346,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20541
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 346,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20542
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 346,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20543
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 346,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20544
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 346,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20545
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 346,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20546
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 346,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20547
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 346,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20548
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20549
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20550
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20551
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20552
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20553
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20554
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20555
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20556
+    },
+    {
+        "candidateid": 812,
+        "companyid": 164,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20557
+    },
+    {
+        "candidateid": 29,
+        "companyid": 164,
+        "competitionid": 346,
+        "score": 0.0,
+        "position": 20,
+        "resultid": 20558
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 346,
+        "score": 0.0,
+        "resultid": 20559
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 346,
+        "score": 0.0,
+        "resultid": 20560
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 346,
+        "score": 0.0,
+        "resultid": 20561
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 346,
+        "score": 0.0,
+        "resultid": 20562
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 347,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20563
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 347,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20564
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 347,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20565
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 347,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20566
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 347,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20567
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 347,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20568
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 347,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20569
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 347,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20570
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 347,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20571
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 347,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20572
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20573
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20574
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20575
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20576
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20577
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20578
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20579
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20580
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 347,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20581
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 347,
+        "score": 0.0,
+        "resultid": 20582
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 347,
+        "score": 0.0,
+        "resultid": 20583
+    },
+    {
+        "candidateid": 29,
+        "companyid": 164,
+        "competitionid": 347,
+        "score": 0.0,
+        "resultid": 20584
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 347,
+        "score": 0.0,
+        "resultid": 20585
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 347,
+        "score": 0.0,
+        "resultid": 20586
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 348,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20587
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 348,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20588
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 348,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20589
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 348,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20590
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 348,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20591
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 348,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20592
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 348,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20593
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 348,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20594
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 348,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20595
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 348,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20596
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20597
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20598
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20599
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20600
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20601
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20602
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20603
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20604
+    },
+    {
+        "candidateid": 29,
+        "companyid": 164,
+        "competitionid": 348,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20605
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 348,
+        "score": 0.0,
+        "resultid": 20606
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 348,
+        "score": 0.0,
+        "resultid": 20607
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 348,
+        "score": 0.0,
+        "resultid": 20608
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 348,
+        "score": 0.0,
+        "resultid": 20609
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 348,
+        "score": 0.0,
+        "resultid": 20610
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 349,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20611
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 349,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20612
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 349,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20613
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 349,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20614
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 349,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20615
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 349,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20616
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 349,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20617
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 349,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20618
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 349,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20619
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 349,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20620
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20621
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20622
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20623
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20624
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20625
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20626
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20627
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20628
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20629
+    },
+    {
+        "candidateid": 29,
+        "companyid": 164,
+        "competitionid": 349,
+        "score": 0.0,
+        "position": 20,
+        "resultid": 20630
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 349,
+        "score": 0.0,
+        "resultid": 20631
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 349,
+        "score": 0.0,
+        "resultid": 20632
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 349,
+        "score": 0.0,
+        "resultid": 20633
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 349,
+        "score": 0.0,
+        "resultid": 20634
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 350,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20635
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 350,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20636
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 350,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20637
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 350,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20638
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 350,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20639
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 350,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20640
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 350,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20641
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 350,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20642
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 350,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20643
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 350,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20644
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20645
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20646
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20647
+    },
+    {
+        "candidateid": 37,
+        "companyid": 15,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20648
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20649
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20650
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20651
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20652
+    },
+    {
+        "candidateid": 29,
+        "companyid": 164,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20653
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 350,
+        "score": 0.0,
+        "position": 20,
+        "resultid": 20654
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 350,
+        "score": 0.0,
+        "resultid": 20655
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 350,
+        "score": 0.0,
+        "resultid": 20656
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 350,
+        "score": 0.0,
+        "resultid": 20657
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 350,
+        "score": 0.0,
+        "resultid": 20658
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 351,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20659
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 351,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20660
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 351,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20661
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 351,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20662
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 351,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20663
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 351,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20664
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 351,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20665
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 351,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20666
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 351,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20667
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 351,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20668
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 351,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20669
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 351,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20670
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 351,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20671
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 351,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20672
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 351,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20673
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 351,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20674
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20675
+    },
+    {
+        "candidateid": 2,
+        "companyid": 15,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20676
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20677
+    },
+    {
+        "candidateid": 32,
+        "companyid": 164,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20678
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20679
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20680
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20681
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 351,
+        "score": 0.0,
+        "resultid": 20682
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 352,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20683
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 352,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20684
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 352,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20685
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 352,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20686
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 352,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20687
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 352,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20688
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 352,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20689
+    },
+    {
+        "candidateid": 2,
+        "companyid": 15,
+        "competitionid": 352,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20690
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 352,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20691
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 352,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20692
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 352,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20693
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 352,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20694
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 352,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20695
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 352,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20696
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 352,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20697
+    },
+    {
+        "candidateid": 29,
+        "companyid": 164,
+        "competitionid": 352,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20698
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20699
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20700
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20701
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20702
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20703
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20704
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20705
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 352,
+        "score": 0.0,
+        "resultid": 20706
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 354,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20731
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 354,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20732
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 354,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20733
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 354,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20734
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 354,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20735
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 354,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20736
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 354,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20737
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 354,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20738
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 354,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20739
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 354,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20740
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20741
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20742
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20743
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20744
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20745
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20746
+    },
+    {
+        "candidateid": 2,
+        "companyid": 15,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20747
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20748
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20749
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 20,
+        "resultid": 20750
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 21,
+        "resultid": 20751
+    },
+    {
+        "candidateid": 32,
+        "companyid": 164,
+        "competitionid": 354,
+        "score": 0.0,
+        "position": 22,
+        "resultid": 20752
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 354,
+        "score": 0.0,
+        "resultid": 20753
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 354,
+        "score": 0.0,
+        "resultid": 20754
+    },
+    {
+        "candidateid": 20,
+        "companyid": 9,
+        "competitionid": 355,
+        "score": 25.0,
+        "position": 1,
+        "resultid": 20755
+    },
+    {
+        "candidateid": 1,
+        "companyid": 1,
+        "competitionid": 355,
+        "score": 18.0,
+        "position": 2,
+        "resultid": 20756
+    },
+    {
+        "candidateid": 18,
+        "companyid": 1,
+        "competitionid": 355,
+        "score": 15.0,
+        "position": 3,
+        "resultid": 20757
+    },
+    {
+        "candidateid": 3,
+        "companyid": 131,
+        "competitionid": 355,
+        "score": 12.0,
+        "position": 4,
+        "resultid": 20758
+    },
+    {
+        "candidateid": 9,
+        "companyid": 4,
+        "competitionid": 355,
+        "score": 10.0,
+        "position": 5,
+        "resultid": 20759
+    },
+    {
+        "candidateid": 808,
+        "companyid": 4,
+        "competitionid": 355,
+        "score": 8.0,
+        "position": 6,
+        "resultid": 20760
+    },
+    {
+        "candidateid": 4,
+        "companyid": 6,
+        "competitionid": 355,
+        "score": 6.0,
+        "position": 7,
+        "resultid": 20761
+    },
+    {
+        "candidateid": 17,
+        "companyid": 9,
+        "competitionid": 355,
+        "score": 4.0,
+        "position": 8,
+        "resultid": 20762
+    },
+    {
+        "candidateid": 153,
+        "companyid": 5,
+        "competitionid": 355,
+        "score": 2.0,
+        "position": 9,
+        "resultid": 20763
+    },
+    {
+        "candidateid": 13,
+        "companyid": 6,
+        "competitionid": 355,
+        "score": 1.0,
+        "position": 10,
+        "resultid": 20764
+    },
+    {
+        "candidateid": 2,
+        "companyid": 15,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 11,
+        "resultid": 20765
+    },
+    {
+        "candidateid": 22,
+        "companyid": 3,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 12,
+        "resultid": 20766
+    },
+    {
+        "candidateid": 16,
+        "companyid": 10,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 13,
+        "resultid": 20767
+    },
+    {
+        "candidateid": 155,
+        "companyid": 15,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 14,
+        "resultid": 20768
+    },
+    {
+        "candidateid": 67,
+        "companyid": 5,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 15,
+        "resultid": 20769
+    },
+    {
+        "candidateid": 807,
+        "companyid": 3,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 16,
+        "resultid": 20770
+    },
+    {
+        "candidateid": 5,
+        "companyid": 205,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 17,
+        "resultid": 20771
+    },
+    {
+        "candidateid": 810,
+        "companyid": 166,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 18,
+        "resultid": 20772
+    },
+    {
+        "candidateid": 811,
+        "companyid": 164,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 19,
+        "resultid": 20773
+    },
+    {
+        "candidateid": 32,
+        "companyid": 164,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 20,
+        "resultid": 20774
+    },
+    {
+        "candidateid": 15,
+        "companyid": 205,
+        "competitionid": 355,
+        "score": 0.0,
+        "position": 21,
+        "resultid": 20775
+    },
+    {
+        "candidateid": 10,
+        "companyid": 166,
+        "competitionid": 355,
+        "score": 0.0,
+        "resultid": 20776
+    },
+    {
+        "candidateid": 30,
+        "companyid": 131,
+        "competitionid": 355,
+        "score": 0.0,
+        "resultid": 20777
+    },
+    {
+        "candidateid": 24,
+        "companyid": 10,
+        "competitionid": 355,
+        "score": 0.0,
+        "resultid": 20778
+    }
+]
